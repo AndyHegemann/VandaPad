@@ -1,4 +1,6 @@
 {
+  "id": "vandapad",
+  "name": "vandapad",
   "layouts": {
     "LAYOUT": {
       "layout": [
@@ -24,5 +26,6 @@
         { "x": 4, "y": 3, "label":   "Bks" }
       ]
     }
-  }
+  },
+  "sensors": []
 }
